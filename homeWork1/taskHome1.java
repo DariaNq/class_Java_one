@@ -1,7 +1,7 @@
-package homeWork1;
+//package homeWork1;
 
-import java.nio.channels.GatheringByteChannel;
-import java.util.Scanner;
+//import java.nio.channels.GatheringByteChannel;
+//import java.util.Scanner;
 
 /*import java.util.Scanner;
 
